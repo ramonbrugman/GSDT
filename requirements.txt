@@ -10,7 +10,7 @@ numba
 matplotlib
 lap
 openpyxl
-Pillow==6.2.2
+Pillow==7.1.0
 tensorboardX
 torch==1.4.0
 torchvision==0.5.0
